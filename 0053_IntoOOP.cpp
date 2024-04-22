@@ -39,5 +39,12 @@ class Matakuliah {
 };
 
 int main() {
+	mahasiswa mhs;
+	Matakuliah mk;
+
+	mhs.nama = "Budi";
+	mhs.umur = 20;
+	mhs.jurusan = "Teknik Informatika";
+
 
 }
