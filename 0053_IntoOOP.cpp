@@ -26,9 +26,8 @@ class Matakuliah {
 			cout << "Kode MK: ";
 			cin >> kodemk;
 			cout << "nama Mk: ";
-			cin >> namaMk;
+			cin >> namamk;
 			cout << "SKS: ";
-
-
+			cin >> sks;
 		}
 };
