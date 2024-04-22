@@ -25,5 +25,8 @@ class Matakuliah {
 		void input() {
 			cout << "Kode MK: ";
 			cin >> kodemk;
+			cout << "nama Mk: ";
+
+
 		}
 };
